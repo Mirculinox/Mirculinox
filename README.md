@@ -1,4 +1,9 @@
 ### Hi there 👋
+## Profile
+Hello everyone! I'm Miguel, a newbie in the world of development. I want to learn more about AI and python because, as a teacher, I want to apply AI in education.
+
+## Studies
+Python
 
 <!--
 **Mirculinox/Mirculinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
